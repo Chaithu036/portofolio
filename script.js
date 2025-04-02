@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Download CV Button
     document.querySelector(".btn-group .btn:first-child").addEventListener("click", function () {
-        window.location.href = "cv.pdf"; // Replace with actual CV file path
+     //   window.location.href = "cv.pdf"; // Replace with actual CV file path
     });
 
     // Contact Form Submission
